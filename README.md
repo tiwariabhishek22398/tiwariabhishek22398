@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 fun fact 
+<br>
 A story will express a goal or end result and A task is a responsibility or step in the process.
 
